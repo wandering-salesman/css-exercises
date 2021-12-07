@@ -1,7 +1,11 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
-}
+} 
 
 .para {
   font-size: 30px;
